@@ -15,8 +15,8 @@
   "editor.formatOnSave": true,
   "dart.flutterHotReloadOnSave": "always",
   "cmake.sourceDirectory": "${workspaceFolder}/app/linux/flutter",
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true
-  },
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll": true
+  // },
   "dart.previewFlutterUiGuides": true
 }
